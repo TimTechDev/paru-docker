@@ -1,0 +1,15 @@
+# Ignore everyting, exept…
+*
+
+# git files
+!/.gitignore
+!/.github
+!/.github/workflows
+!/.github/workflows/*
+
+# Documentation
+!/LICENCE
+!/README.md
+
+# Container stuff
+!/Dockerfile
